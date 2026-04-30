@@ -62,7 +62,7 @@ The research is based on papers collected from major academic sources including 
 
 ## Current Status
 
-Preprint submitted
+Published
 
 ---
 
