@@ -63,7 +63,7 @@ The research is based on papers collected from major academic sources including 
 ## Current Status
 
 Published
-
+https://zenodo.org/records/19909639
 ---
 
 ## Affiliation
